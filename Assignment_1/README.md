@@ -2,4 +2,4 @@
 
 <h1>Question : 1</h1>
 
-![Question-1](https://github.com/souvik97381/iNEURON-Assignments-Java/Assignment_1/q1.jpg?raw=true)
+![Question-1](https://github.com/souvik97381/iNEURON-Assignments-Java/blob/master/Assignment_1/q1.png)
